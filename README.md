@@ -45,16 +45,6 @@ First-year Computer Science student at Astana IT University with hands-on experi
 
 ---
 
-## Milestones
-
-| Metric | Value |
-|---|---|
-| Object classes in vehicle model | **196** |
-| Training dataset size | **16,000 images** |
-| Critical-path test coverage (SecureVault) | **100%** |
-| Hackathons participated | **HackNU 2025 & 2026, AITU SmartCity** |
-
----
 
 ## Languages
 
