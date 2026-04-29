@@ -39,12 +39,11 @@ First-year Computer Science student at Astana IT University with hands-on experi
 
 | Project | Highlights | Stack | Links |
 |---|---|---|---|
-| **YOLO-Based Vehicle Detection System** | Real-time detection + ByteTrack tracking + 196-class make/model classification. Trained on 16,000 images (Stanford Cars), deployed with CI/CD. | Python, FastAPI, YOLOv8, OpenCV, ByteTrack, PostgreSQL, Docker | [Demo](https://fu4ll-vehicle-detection.hf.space/) • [Repo](https://github.com/s-dinmukhamed/vehicle-detection-api) |
-| **SecureVault - Encrypted File Storage** | Encrypted storage API with AES-256-GCM, RBAC, signed URLs, JWT auth, CI + security scanning. | Python, FastAPI, PostgreSQL, Docker, JWT, Trivy | [Demo](https://security-storage.up.railway.app/) • [Repo](https://github.com/s-dinmukhamed/secure-storage) |
-| **AI Career Agent (In Progress)** | LLM-based job parsing, skill-gap analysis, tailored CV generation, and personalized learning roadmap automation. | Python, LLM, RAG, FAISS/Chroma, LangChain/CrewAI, Playwright, FastAPI | In development |
+| **YOLO-Based Vehicle Detection System** | Real-time detection + ByteTrack tracking + **196-class** make/model classification. Trained on **16,000 images** (Stanford Cars). Inference latency: **361-923 ms** (avg **714 ms**, CPU). Model footprint: **6.2 MB (YOLOv8n) + 6.6 MB (classifier)**. | Python, FastAPI, YOLOv8, OpenCV, ByteTrack, PostgreSQL, Docker | [Demo](https://fu4ll-vehicle-detection.hf.space/) • [Repo](https://github.com/s-dinmukhamed/vehicle-detection-api) |
+| **SecureVault - Encrypted File Storage** | Encrypted storage API with **AES-256-GCM**, RBAC, signed URLs, and JWT auth. Implemented **11 REST endpoints**, **15-min access token TTL + refresh rotation**, presigned links with **5-min expiry**, and **100% critical-path test coverage**. Docker layer caching improved rebuild speed by **~70%**. | Python, FastAPI, PostgreSQL, Docker, JWT, Trivy | [Demo](https://security-storage.up.railway.app/) • [Repo](https://github.com/s-dinmukhamed/secure-storage) |
+| **AI Career Agent (In Progress)** | LLM-based parsing of job posts (LinkedIn/HH/company sites), skill-gap analysis, tailored CV generation, and personalized learning roadmap automation. Multi-agent design for decomposition (parsing, analysis, recommendations) with planned SaaS-style API + UI. | Python, LLM, RAG, FAISS/Chroma, LangChain/CrewAI, Playwright, FastAPI | In development |
 
 ---
-
 
 ## Languages
 
