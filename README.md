@@ -1,5 +1,5 @@
 <h1 align="center">Dinmukhamed Mubtal</h1>
-<p align="center"><b>AI / ML Engineer in progress</b> • Astana, Kazakhstan</p>
+<p align="center"><b>Junior Backend / ML Engineer</b> • Astana, Kazakhstan</p>
 
 <p align="center">
   <a href="mailto:dimahssydykov@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email" /></a>
