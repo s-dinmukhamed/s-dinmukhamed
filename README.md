@@ -1,60 +1,33 @@
-<h1 align="center">Dinmukhamed Mubtal</h1>
-<p align="center"><b>Junior Backend / ML Engineer</b> • Astana, Kazakhstan</p>
+# Hi, I'm Dinmukhamed 👋
 
-<p align="center">
-  <a href="mailto:dimahssydykov@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/s-dinmukhamed"><img src="https://img.shields.io/badge/GitHub-s--dinmukhamed-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/dinmukhamed-mubtal-ab915831a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-</p>
+**Fullstack Developer · AI Automation Engineer** — Astana, Kazakhstan
 
----
+I ship the whole thing solo — frontend, backend, database, deploy — with a strong focus
+on **AI automation** (Claude / GPT API, RAG, LLM agents). Idea → working product in
+production: web apps, Telegram bots, integrations, sites end-to-end.
 
-## About Me
-
-First-year Computer Science student at Astana IT University with hands-on experience in computer vision, backend engineering, and secure API design.
-
-| Focus Area | What I Build |
-|---|---|
-| Machine Learning | Custom YOLO pipelines, model fine-tuning, inference optimization |
-| Backend | FastAPI services, authentication, RBAC, production-ready REST APIs |
-| AI Product Engineering | LLM/RAG workflows, multi-agent systems, automation pipelines |
-| Security | AES-256-GCM encryption, signed URLs, secure token flows |
+🔭 Backend/ML @ Rogue Spectra · 🎓 CS @ Astana IT University · 💬 open to project & subcontract work
 
 ---
 
-## Tech Stack
+### 🚀 Featured projects
 
-| Category | Technologies |
-|---|---|
-| Languages | `Python`, `C`, `C++`, `Java` |
-| ML / AI | `YOLOv8`, `PyTorch`, `OpenCV`, `scikit-learn`, `LLM`, `RAG` |
-| Backend | `FastAPI`, `REST API`, `JWT`, `SQLAlchemy` |
-| Data | `PostgreSQL`, `pandas`, `NumPy` |
-| DevOps | `Docker`, `GitHub Actions`, `Linux`, `Git` |
-| Security | `AES-256-GCM`, `HMAC-SHA256`, `bcrypt` |
+| Project | What it is | Stack | Live |
+|---------|-----------|-------|------|
+| **ResumeTree** | AI resume platform — forks a master résumé into job-specific branches, re-adapting bullets with a two-stage Claude pipeline | Next.js · Claude API · PostgreSQL · Prisma | [demo](https://resume-tree-gules.vercel.app/) |
+| **Covenant Compliance Pipeline** | Reads credit-agreement PDFs, extracts covenants, classifies ledger transactions; Python does the math, the LLM never does | Python · Gemini/Groq · RAG (fastembed) · PyMuPDF | [repo](https://github.com/s-dinmukhamed/halyk-hackathon) |
+| **YOLO Vehicle Detection API** | Real-time vehicle detection across 196 classes; fine-tuned YOLOv8n on 16k images | FastAPI · YOLOv8 · Docker · CI/CD | [demo](https://fu4ll-vehicle-detection.hf.space/) · [repo](https://github.com/s-dinmukhamed/vehicle-detection-api) |
+| **SecureVault** | Encrypted file storage — 11 REST endpoints, full RBAC, AES-256-GCM, Trivy-gated deploys | FastAPI · AES-256-GCM · JWT · Docker | [demo](https://security-storage.up.railway.app/) · [repo](https://github.com/s-dinmukhamed/secure-storage) |
 
 ---
 
-## Featured Projects
+### 🛠️ Stack
 
-| Project | Highlights | Stack | Links |
-|---|---|---|---|
-| **YOLO-Based Vehicle Detection System** | Real-time detection + ByteTrack tracking + **196-class** make/model classification. Trained on **16,000 images** (Stanford Cars). Inference latency: **361-923 ms** (avg **714 ms**, CPU). Model footprint: **6.2 MB (YOLOv8n) + 6.6 MB (classifier)**. | Python, FastAPI, YOLOv8, OpenCV, ByteTrack, PostgreSQL, Docker | [Demo](https://fu4ll-vehicle-detection.hf.space/) • [Repo](https://github.com/s-dinmukhamed/vehicle-detection-api) |
-| **SecureVault - Encrypted File Storage** | Encrypted storage API with **AES-256-GCM**, RBAC, signed URLs, and JWT auth. Implemented **11 REST endpoints**, **15-min access token TTL + refresh rotation**, presigned links with **5-min expiry**, and **100% critical-path test coverage**. Docker layer caching improved rebuild speed by **~70%**. | Python, FastAPI, PostgreSQL, Docker, JWT, Trivy | [Demo](https://security-storage.up.railway.app/) • [Repo](https://github.com/s-dinmukhamed/secure-storage) |
-| **AI Career Agent (In Progress)** | LLM-based parsing of job posts (LinkedIn/HH/company sites), skill-gap analysis, tailored CV generation, and personalized learning roadmap automation. Multi-agent design for decomposition (parsing, analysis, recommendations) with planned SaaS-style API + UI. | Python, LLM, RAG, FAISS/Chroma, LangChain/CrewAI, Playwright, FastAPI | In development |
-
----
-
-## Languages
-
-| Language | Level |
-|---|---|
-| Kazakh | Native |
-| Russian | Native |
-| English | B2 |
+**AI/ML:** Claude API · OpenAI GPT API · RAG · LangChain · n8n · LLM agents · PyTorch · YOLOv8
+**Backend:** Python · FastAPI · Node.js · REST · JWT/OAuth · webhooks · PostgreSQL · Prisma
+**Frontend:** React · Next.js · TypeScript · Tailwind · shadcn/ui
+**Bots & DevOps:** Telegram (aiogram) · CRM/payment integrations · Docker · GitHub Actions · nginx · VPS
 
 ---
 
-## Career Goal
-
-Open to **AI/ML Engineer internship** and **junior AI/backend opportunities** where I can contribute to real products and keep leveling up with a strong team.
+📫 **dimahssydykov@gmail.com** · [LinkedIn](https://www.linkedin.com/in/dinmukhamed-mubtal-ab915831a/)
